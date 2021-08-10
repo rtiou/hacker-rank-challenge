@@ -1,1 +1,0 @@
-# hacker-rank-challenge

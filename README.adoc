@@ -1,0 +1,5 @@
+= hacker-rank-challenge
+
+This project has the goal to implement some nice challenges from https://www.hackerrank.com/[hacker rank platform].
+
+* LRU Algorithm
